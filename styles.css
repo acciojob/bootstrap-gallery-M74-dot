@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+
+<style>
+        .card {
+            border-radius: 15px;
+        }
+        .card img {
+            border-radius: 15px 15px 0 0;
+            cursor: pointer;
+        }
+        .card-text, .card-title {
+            text-align: center;
+        }
+</style>
